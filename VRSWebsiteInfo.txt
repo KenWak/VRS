@@ -1,0 +1,10 @@
+dbname: id6374226_vrsdb
+username: id6374226_ken
+pswd: 12345
+
+
+website: https://libraryvirtual.000webhostapp.com/
+
+username-libraryvirtual
+pswd-12345
+HOST-files.000webhost.com
